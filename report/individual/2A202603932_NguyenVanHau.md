@@ -1,4 +1,4 @@
-# Báo cáo cá nhân — MSSV_HoTen
+# Báo cáo cá nhân — 2A202603932_NguyenVanHau
 
 > Đổi tên file theo quy tắc `MSSV_HoTen.md`, ví dụ `20241234_NguyenVanAn.md` (MSSV trước, dấu `_`, họ tên viết liền không dấu). Sửa cả dòng tiêu đề phía trên cho khớp.
 > Template chi tiết và prompt mẫu cho từng mục: [docs/01-worksheet.md](../../docs/01-worksheet.md).
@@ -25,7 +25,7 @@ Lăng kính: **Lặp lại** · **Tốn thời gian** · **Cần đọc, tổng 
 | 3 | Tốn thời gian | Khi nhóm làm việc chung trên một báo cáo Markdown, tôi muốn gộp phần viết của 4 người và kiểm tra xung đột nội dung trước khi copy sang repo cá nhân, để không nộp nhầm bản cũ | Thành viên nhóm làm báo cáo chung trên GitHub | Diễn ra ở mỗi buổi lab/sprint (2–3 lần/tuần); mất 20–30 phút cuối buổi để gộp bài, xử lý merge conflict thủ công và đối chiếu tính nhất quán giữa báo cáo nhóm với 4 file cá nhân; từng có 1–2 thành viên commit nhầm bản thiếu cập nhật mới nhất |
 | 4 | Tốn thời gian | Khi quay xong một video dài (podcast, webinar, bài giảng, livestream bán hàng), tôi muốn xác định ngay các đoạn cao trào (hook) và chuẩn hóa phụ đề đúng thuật ngữ ngành, để cắt thành 5–10 clip ngắn đăng đa kênh trong ngày | Content Creator / Đội Marketing in-house của SME | 2–3 video dài/tuần; mất 3–4 giờ/video chỉ để nghe lại, ghi timestamp và sửa lỗi chính tả phụ đề chuyên ngành; chi phí thuê editor ngoài khoảng 150k–300k/clip ngắn |
 | 5 | Cần đọc, tổng hợp nhiều thông tin | Khi tìm kiếm thông báo học vụ, lịch thi và quy định nộp bài trên cổng thông tin trường, LMS và email, tôi muốn biết ngay các mốc hạn chót trong tuần của mình, để không bị trễ hạn | Sinh viên / Học viên học song song nhiều môn | Mỗi ngày phải mở 3–4 kênh rời rạc (Portal trường, LMS, Gmail, nhóm Zalo/Discord lớp) mất 15–20 phút/ngày; trong học kỳ gần nhất có ~15% sinh viên trong lớp từng trễ hạn ít nhất 1 quiz/bài nộp phụ do thông báo đổi lịch bị trôi |
-| 6 | Cần đọc, tổng hợp nhiều thông tin | Khi ký hợp đồng thuê mặt bằng, hợp đồng dịch vụ hoặc hợp đồng lao động/freelance mới, tôi muốn phát hiện các điều khoản bất lợi, phạt vi phạm ẩn hoặc nghĩa vụ thanh toán rủi ro so với khung chuẩn, để đàm phán sửa đổi trước khi đặt bút ký | Chủ doanh nghiệp nhỏ (SME) / Người làm Freelance | Trung bình 2–5 hợp đồng/đợt (dài 8–20 trang/bản, nhiều điều khoản ràng buộc IP, bảo mật NDA, phạt vi phạm); tự đọc mất 60–90 phút/bản nhưng vẫn dễ sót điều khoản bất lợi; thuê luật sư rà soát lẻ tốn 1,5–3 triệu đồng/hợp đồng |
+| 6 | Cần đọc, tổng hợp nhiều thông tin | Khi tìm việc làm mới trong mùa tuyển dụng, tôi muốn quét và tổng hợp các tin tuyển dụng (JD) từ nhiều trang web (TopCV, ITviec, LinkedIn, VietnamWorks) để so khớp với kỹ năng trong CV của mình, để ứng tuyển nhanh các vị trí phù hợp nhất mà không phải mở từng web đọc thủ công hàng chục tab mỗi ngày | Người tìm việc / Ứng viên ngành CNTT & kỹ thuật (Fresher/Junior) | Diễn ra hàng ngày trong 1–3 tháng tìm việc; mỗi ngày mở 4–5 trang web đọc 30–50 JD mất 60–90 phút/ngày; nhiều tin yêu cầu kinh nghiệm thực tế không khớp với tiêu đề (ghi tuyển Junior nhưng yêu cầu 3 năm kinh nghiệm) làm mất công đọc |
 | 7 | Pain từ người khác | Khi khách thuê phòng trọ / căn hộ dịch vụ tới kỳ đóng tiền hàng tháng, chủ nhà muốn chốt chỉ số điện nước từ ảnh chụp đồng hồ, tính tổng phí dịch vụ và gửi thông báo kèm mã QR thanh toán chính xác cho từng phòng, để thu tiền đúng hạn mà không bị khách thắc mắc tính sai | Chủ nhà trọ / Quản lý chuỗi phòng cho thuê (15–100 phòng) | Ngày 1–5 hàng tháng; quản lý 30 phòng mất ~3–4 giờ nhập tay chỉ số từ ảnh Zalo vào Excel, xuất phiếu thu và nhắn từng người; mỗi tháng có 3–5 phòng phản ánh ghi nhầm số điện/nước hoặc quên cộng trừ tiền cọc |
 | 8 | Pain từ người khác | Khi phụ huynh có con học tại trung tâm ngoại ngữ/luyện thi sau mỗi tuần học, họ muốn nắm rõ con mình đang hổng kiến thức phần nào, thái độ học và bài tập về nhà ra sao, để phối hợp nhắc nhở con thay vì chỉ nhận điểm số chung chung | Trợ giảng (TA) / Giáo viên trung tâm ngoại ngữ & Phụ huynh | Mỗi trợ giảng phụ trách 2–3 lớp (20–25 học viên/lớp), cuối tuần mất 90–120 phút viết nhận xét cá nhân hóa gửi Zalo cho từng phụ huynh; trung tâm ghi nhận ~25% phụ huynh phàn nàn nhận xét bị "văn mẫu copy-paste" |
 | 9 | Pain từ người khác | Khi nhân viên mới vào làm trong 2 tuần đầu, quản lý trực tiếp muốn nhân viên tra cứu được ngay quy trình xử lý tình huống thực tế (đổi trả, bảo hành, khiếu nại khó) theo đúng SOP công ty, để không phải hỏi đi hỏi lại người cũ đang bận | Quản lý trực tiếp (Team Lead) và nhân viên mới tại doanh nghiệp dịch vụ/bán lẻ | Trung bình 1 nhân viên mới hỏi người cũ 6–8 lần/ngày trong 2 tuần đầu (làm gián đoạn ~45 phút/ngày của nhân viên cũ); tài liệu SOP nằm rải rác ở 10+ file Notion/Google Docs dài nên người mới ngại đọc hoặc tìm không ra |
@@ -47,8 +47,8 @@ Lăng kính: **Lặp lại** · **Tốn thời gian** · **Cần đọc, tổng 
 | Rank | Problem | Vì sao chọn | Điều còn chưa chắc |
 |---:|---|---|---|
 | 1 | Đối chiếu bảng giá sỉ/lẻ, tồn kho & soạn báo giá cho khách qua Zalo/FB (#1) | Nỗi đau diễn ra hàng chục lần mỗi ngày ở các shop/đại lý SME; tác động trực tiếp đến doanh thu (tỷ lệ chốt đơn); quy trình rõ ràng, rất dễ đóng gói thành sản phẩm SaaS/Copilot thu phí hàng tháng | Các shop đang lưu bảng giá và tồn kho trên Google Sheets chuẩn hóa hay file Excel/ảnh chụp rời rạc? |
-| 2 | Chốt chỉ số điện nước từ ảnh chụp, tính phí & tạo thông báo QR thanh toán cho phòng trọ (#7) | Nỗi đau lặp lại định kỳ mỗi đầu tháng của hàng trăm ngàn chủ trọ/quản lý căn hộ dịch vụ; khách hàng sẵn sàng trả phí phần mềm để không phải dò số thủ công và tránh cãi nhau về tiền điện nước; giải pháp kết hợp OCR + Rule tạo mã VietQR rất khả thi làm MVP | Ảnh chụp công tơ thực tế từ khách thuê gửi qua Zalo có đủ rõ nét để OCR đọc chính xác trên 90% không? |
-| 3 | Ghi lại tự động tham số và kết quả lỗi khi chạy thử nghiệm huấn luyện mô hình (#2) | Nỗi đau lặp lại nhiều lần trong ngày của kỹ sư IT/lập trình viên khi thử nghiệm; dễ đo số giờ GPU bị lãng phí do chạy trùng cấu hình lỗi; có thể đóng gói thành DevTool/CLI plugin tiện ích | Vì sao lập trình viên không bật sẵn MLflow/W&B: do công cụ quá nặng/khó cấu hình hay do thiếu tính năng tóm tắt nguyên nhân lỗi trong traceback? |
+| 2 | Quét tin tuyển dụng (JD) từ nhiều trang web để so khớp với CV (#6) | Nỗi đau thực tế, diễn ra hàng ngày của người tìm việc khi phải mở hàng chục tab trên 4–5 trang tuyển dụng; có tiềm năng thương mại hóa thành ứng dụng Job Matching (thu phí người tìm việc hoặc gói giới thiệu ứng viên cho doanh nghiệp); quy trình so khớp ngữ cảnh JD với CV phát huy rất tốt năng lực của AI | Các trang tuyển dụng lớn có chặn bot cào dữ liệu (anti-scraping) khi quét số lượng lớn JD không? |
+| 3 | Tìm kiếm và tổng hợp mốc hạn chót từ Portal trường, LMS và email (#5) | Trải nghiệm đau thực tế lặp đi lặp lại hàng tuần của sinh viên/học viên khi học song song nhiều môn; quy trình rõ, dễ kiểm chứng ngay trong lớp học; có thể làm MVP dạng tiện ích mở rộng (extension) hoặc bot Telegram/Zalo | Cơ chế xác thực (SSO/Captcha) của các cổng thông tin trường có cho phép kết nối tự động an toàn không? |
 
 ### Problem Card #1
 
@@ -81,54 +81,54 @@ HIỆN TẠI — 5,5 phút/lượt báo giá (x 40 lượt/ngày = ~220 phút/ng
 
 | Trường | Nội dung |
 |---|---|
-| Job Story | Khi khách thuê phòng trọ / căn hộ dịch vụ tới kỳ đóng tiền hàng tháng, tôi muốn bóc tách nhanh chỉ số điện nước từ ảnh chụp công tơ, tự động tính tổng tiền theo định mức và gửi thông báo kèm mã QR chuyển khoản chính xác cho từng phòng, để thu tiền đúng hạn mà không mất nhiều ngày nhập liệu thủ công hay bị khách thắc mắc tính nhầm |
-| Actor | Chủ nhà trọ / Quản lý chuỗi căn hộ mini, nhà cho thuê (quy mô 15–80 phòng) |
-| Thời điểm / bối cảnh | Định kỳ ngày 1–5 hàng tháng, khi các phòng đồng loạt gửi ảnh chụp đồng hồ điện nước qua Zalo hoặc quản lý đi chụp từng tầng |
-| Quy trình hiện tại (3–7 bước) | 1. Mở tin nhắn Zalo nhận ảnh chụp đồng hồ điện nước của từng phòng gửi về (hoặc tự đi chụp từng phòng) · 2. Căng mắt nhìn ảnh, phóng to để đọc chỉ số cũ và chỉ số mới, ghi chép ra giấy nháp hoặc gõ tay vào bảng Excel · 3. Lấy chỉ số mới trừ chỉ số cũ, nhân đơn giá điện nước (theo bậc thang hoặc giá cố định), cộng tiền phòng và các phí dịch vụ (rác, wifi, thang máy, xe) · 4. Mở app ngân hàng tạo mã VietQR kèm số tiền đúng từng phòng, hoặc chụp lại dòng tính tiền gửi qua Zalo riêng từng khách · 5. Trả lời giải thích khi khách thắc mắc tính sai số điện/nước hoặc thắc mắc khoản trừ cọc |
-| Bottleneck (bước nào, mất bao nhiêu phút) | Bước 2 & Bước 4 (Đọc chỉ số từ ảnh mờ/góc nghiêng gõ vào Excel và tạo từng thông báo bill/QR gửi riêng lẻ cho từng phòng): mất 5–7 phút/phòng |
-| Impact (nếu không giải thì sao) | Quản lý 35 phòng mất 3,5–4,5 giờ mỗi đầu tháng; trung bình có 3–5 phòng/tháng phản ánh bị ghi nhầm chỉ số hoặc sai lệch tiền dịch vụ gây tranh cãi và chậm tiến độ thu tiền phòng từ 3–7 ngày (đọng vốn 50–150 triệu đồng) |
-| Success metric (baseline → target) | Tổng thời gian tính tiền và xuất bill cho 30 phòng giảm từ **210 phút** xuống **dưới 40 phút**; tỷ lệ sai lệch chỉ số nhập liệu giảm từ **~10%** xuống **dưới 1%** |
-| Phương án không dùng AI | Dùng bảng tính Excel có sẵn công thức tính tiền: người dùng vẫn phải tự mở từng ảnh chụp trong Zalo, căng mắt đọc số và gõ tay từng dòng vào Excel, sau đó vẫn phải copy số tiền sang app ngân hàng để tạo mã QR gửi từng phòng |
-| Giả thuyết về AI (nếu có) | AI (Vision model / OCR chuyên dụng) tự động nhận diện và trích xuất số công tơ điện nước từ ảnh chụp; Rule/Script tự động lấy chỉ số mới trừ số cũ tháng trước, áp bảng giá dịch vụ để sinh hóa đơn và mã VietQR thanh toán; chủ trọ chỉ cần nhìn lướt ảnh đối chiếu số đã nhận diện, bấm "Duyệt" là tin nhắn tự gửi qua Zalo webhook |
+| Job Story | Khi tìm kiếm cơ hội việc làm mới, tôi muốn quét và đối chiếu tự động các tin tuyển dụng (JD) mới đăng trên nhiều trang web (ITviec, TopCV, LinkedIn, VietnamWorks) với kỹ năng và kinh nghiệm trong CV của mình, để chọn ra các công việc phù hợp nhất để ứng tuyển trong ngày mà không phải lướt thủ công hàng chục tab trình duyệt |
+| Actor | Ứng viên tìm việc ngành IT & công nghệ (Fresher, Junior, hoặc người đang chủ động tìm việc làm mới) |
+| Thời điểm / bối cảnh | Hàng ngày vào các khung giờ cập nhật tin tuyển dụng (sáng 8h–9h hoặc chiều 17h–18h) trong giai đoạn cao điểm tìm việc kéo dài 1–3 tháng |
+| Quy trình hiện tại (3–7 bước) | 1. Mở lần lượt 4–5 trang web việc làm (ITviec, TopCV, LinkedIn, VietnamWorks) · 2. Nhập từ khóa chuyên môn (ví dụ "Python", "Data", "AI", "Frontend"), chọn bộ lọc địa điểm và cấp bậc (Fresher/Junior) · 3. Bấm mở 20–30 tin tuyển dụng (JD) ra các tab trình duyệt khác nhau · 4. Đọc chi tiết từng JD: mức lương, số năm kinh nghiệm thật, tech stack bắt buộc và đãi ngộ để so sánh với CV của bản thân · 5. Lưu lại 3–5 link JD phù hợp nhất vào bảng Notion/Sheets hoặc gửi CV ứng tuyển ngay |
+| Bottleneck (bước nào, mất bao nhiêu phút) | Bước 3 & Bước 4 (Mở 20–30 tab đọc lướt nội dung JD, bóc tách yêu cầu kinh nghiệm thật ẩn dưới mô tả và so khớp với năng lực trong CV): mất 45–60 phút mỗi ngày; nhiều tin tuyển dụng bị trùng lặp giữa các trang hoặc ghi tiêu đề Junior nhưng nội dung đòi hỏi 2–3 năm kinh nghiệm làm mất công đọc |
+| Impact (nếu không giải thì sao) | Mất 6–8 giờ/tuần chỉ để tìm kiếm và sàng lọc JD thủ công; ứng viên nộp chậm sau 2–3 ngày thường bị trôi hồ sơ xuống cuối danh sách của nhà tuyển dụng (giảm 40% cơ hội được gọi phỏng vấn); nộp nhầm các JD không khớp thực tế làm mất thời gian phỏng vấn hỏng |
+| Success metric (baseline → target) | Thời gian quét và tìm các JD phù hợp trong ngày giảm từ **75 phút/ngày** xuống **dưới 10 phút/ngày**; tỷ lệ JD được đề xuất khớp thực tế trên 80% tiêu chí trong CV đạt **trên 85%**; không bỏ sót tin tuyển dụng mới đăng trong vòng 24 giờ |
+| Phương án không dùng AI | Đăng ký tính năng "Job Alert qua email" của từng trang tuyển dụng: email tự động gửi tin mới về hộp thư mỗi ngày, nhưng chỉ lọc theo từ khóa cứng (keyword search thô) nên nhận về rất nhiều tin rác (Senior đòi 5 năm kinh nghiệm hoặc ngành khác), người dùng vẫn phải mở từng link đọc lại thủ công |
+| Giả thuyết về AI (nếu có) | Rule/script quét và gom các JD mới đăng trong ngày từ các trang web việc làm; AI (LLM) đọc văn bản JD để bóc tách yêu cầu thực chất (kinh nghiệm thật, tech stack cốt lõi, đãi ngộ), sau đó so khớp ngữ cảnh với CV của người dùng để chấm điểm phù hợp (Match Score) kèm 2–3 gạch đầu dòng giải thích điểm mạnh/yếu; người dùng chỉ cần mở 1 bảng tổng hợp để duyệt và bấm ứng tuyển |
 | Cảm nhận nhanh | Workflow |
 
 Quy trình nháp hiện tại:
 
 ```text
-HIỆN TẠI — 7 phút/phòng (x 30 phòng = 210 phút mỗi đầu tháng)
+HIỆN TẠI — 75 phút/ngày (~6–8 giờ/tuần trong đợt tìm việc)
 
-[1. Tải ảnh đồng hồ điện nước từ Zalo: 1,0']
-→ [2. Soi ảnh, đọc chỉ số & gõ tay vào Excel: 3,0'] ← BOTTLENECK (phần 1)
-→ [3. Excel tự tính tổng tiền các khoản: 0,5']
-→ [4. Mở app ngân hàng tạo mã VietQR & soạn tin gửi Zalo từng khách: 2,0'] ← BOTTLENECK (phần 2)
-→ [5. Xử lý phản hồi khiếu nại sai số: 0,5']
+[1. Mở 4–5 trang web tuyển dụng & gõ từ khóa: 10']
+→ [2. Mở 20–30 tab JD có tiêu đề liên quan: 15']
+→ [3. Đọc chi tiết từng JD & bóc tách yêu cầu thật: 35'] ← BOTTLENECK (phần 1)
+→ [4. So sánh với CV cá nhân & lọc tin rác/trùng: 10'] ← BOTTLENECK (phần 2)
+→ [5. Lưu link phù hợp vào Sheets & gửi CV: 5']
 ```
 
 ### Problem Card #3
 
 | Trường | Nội dung |
 |---|---|
-| Job Story | Khi chạy thử nghiệm huấn luyện mô hình nhiều lần trong ngày, tôi muốn ghi lại tự động các tham số và kết quả lỗi của từng lần chạy, để không chạy trùng lại cấu hình đã thất bại |
-| Actor | Kỹ sư IT / Lập trình viên trong nhóm R&D (quy mô 2–10 người) đang thực hiện fine-tuning mô hình ngôn ngữ hoặc huấn luyện mô hình thị giác máy tính |
-| Thời điểm / bối cảnh | Trong các đợt chạy thử nghiệm lặp (experiment loop) trên Google Colab, Kaggle hoặc máy chủ GPU nội bộ với 10–15 lần chạy thử mỗi ngày |
-| Quy trình hiện tại (3–7 bước) | 1. Sửa tham số (`learning_rate`, `batch_size`, `lora_r`, dataset split, prompt template) trong file script hoặc cell notebook · 2. Bấm chạy script train và chờ kết quả hoặc gặp lỗi crash giữa chừng (OOM, NaN loss, CUDA error) · 3. Mở cửa sổ terminal đọc traceback / eval metric cuối cùng · 4. Copy tay các tham số vừa sửa + kết quả metric/lỗi sang bảng Notion hoặc Google Sheets · 5. Khi bắt đầu lần chạy mới, dò lại bảng ghi chú cũ xem tổ hợp tham số này đã từng thử và bị lỗi chưa |
-| Bottleneck (bước nào, mất bao nhiêu phút) | Bước 4 & Bước 5 (Copy tay cấu hình + tóm tắt nguyên nhân lỗi vào bảng theo dõi và tra cứu lại trước lần chạy mới): mất 6–8 phút/lần chạy; khi đang vội debug thường bỏ qua không ghi, dẫn đến hôm sau chạy lặp lại đúng cấu hình từng bị lỗi |
-| Impact (nếu không giải thì sao) | Mất 60–90 phút/ngày ghi chép thủ công hoặc quên ghi dẫn đến chạy trùng 2–3 cấu hình lỗi/tuần (lãng phí 3–5 giờ thuê GPU/tuần và làm chậm tiến độ bàn giao model cho team) |
-| Success metric (baseline → target) | Thời gian ghi nhận và tra cứu lịch sử mỗi lần chạy giảm từ **7 phút/lần** xuống **dưới 30 giây/lần**; số lần chạy trùng cấu hình đã thất bại giảm từ **2–3 lần/tuần** xuống **0 lần/tuần** |
-| Phương án không dùng AI | Viết một hàm wrapper Python (`atexit` / decorator) tự động dump file config YAML + exit code + dòng cuối của `stderr` vào một file `experiments.csv` kèm hash của bộ tham số để cảnh báo nếu trùng hash (Rule/Script giải quyết được ~80% nhu cầu ghi log) |
-| Giả thuyết về AI (nếu có) | Rule/script tự động bắt config và kiểm tra trùng hash; AI chỉ can thiệp khi run bị crash phức tạp hoặc loss bất thường để tóm tắt stack trace dài thành 1 câu nguyên nhân gốc + gợi ý tham số cần tránh ở lần chạy kế tiếp |
-| Cảm nhận nhanh | Rule (kết hợp Workflow nhẹ khi cần tóm tắt log lỗi dài) |
+| Job Story | Khi tìm kiếm thông báo học vụ, lịch thi và quy định nộp bài trên cổng thông tin trường, LMS và email, tôi muốn biết ngay các mốc hạn chót trong tuần của mình, để không bị trễ hạn |
+| Actor | Sinh viên / Học viên đại học hoặc các khóa đào tạo kỹ thuật có lịch học và bài tập dày đặc (đang theo học 4–6 môn song song) |
+| Thời điểm / bối cảnh | Đầu mỗi tuần (sáng thứ Hai) và trước các tuần thi giữa kỳ/cuối kỳ, khi giảng viên các môn liên tục cập nhật thông báo dời hạn, giao thêm bài tập phụ trên các kênh khác nhau |
+| Quy trình hiện tại (3–7 bước) | 1. Đăng nhập cổng thông tin đào tạo (Portal trường) xem lịch thi và thông báo chung của khoa/trường · 2. Đăng nhập hệ thống LMS (Canvas/Moodle/Google Classroom) của từng môn để kiểm tra mục thông báo và deadline bài tập tuần · 3. Mở hòm thư sinh viên (Gmail/Outlook) đọc email từ giảng viên hoặc trợ giảng về việc sửa đề/dời lịch nộp · 4. Lướt qua các nhóm chat Zalo/Discord môn học để xem thông báo quan trọng có bị bỏ sót không · 5. Tự ghi chép các hạn chót và lịch thi sắp tới vào sổ tay hoặc app Google Calendar/Notion |
+| Bottleneck (bước nào, mất bao nhiêu phút) | Bước 2, Bước 3 & Bước 4 (Đăng nhập lần lượt 4–5 hệ thống rời rạc, đọc các thông báo dài và đối chiếu ngày giờ hạn chót): mất 15–20 phút mỗi ngày (~90–120 phút/tuần), thông báo đổi hạn chót hay bị trôi lẫn trong hàng chục email và tin nhắn chat |
+| Impact (nếu không giải thì sao) | Mất 1,5–2 giờ/tuần chỉ để rà soát lịch; trong mỗi học kỳ có khoảng 15–20% sinh viên từng bị nộp muộn ít nhất 1 bài tập hoặc lỡ bài kiểm tra phụ do không cập nhật kịp thông báo đổi lịch của giảng viên (bị trừ điểm chuyên cần hoặc nhận điểm 0 bài tập, ảnh hưởng điểm tổng kết GPA) |
+| Success metric (baseline → target) | Thời gian tổng hợp hạn chót và lịch thi trong tuần giảm từ **90 phút/tuần** xuống **dưới 5 phút/tuần**; số sự cố nộp bài trễ hạn hoặc lỡ lịch thi do quên thông báo giảm từ **1–2 lần/kỳ** về **0 lần** |
+| Phương án không dùng AI | Dùng tính năng đồng bộ lịch Google Calendar có sẵn của LMS hoặc cài app nhắc việc (Todoist, Notion): giúp hiển thị lịch nếu LMS có hỗ trợ xuất file `.ics`, nhưng hoàn toàn không đọc được các thông báo đổi lịch hoặc thông báo gia hạn đột xuất gửi qua email dạng văn xuôi hoặc tin nhắn Zalo của giảng viên |
+| Giả thuyết về AI (nếu có) | Rule/Script tự động kéo thông báo mới từ LMS và email sinh viên (qua API/OAuth2); AI (LLM) đọc nội dung email/thông báo thông thường, trích xuất chính xác: môn học, tên bài tập/kỳ thi, thời hạn chót cũ và thời hạn chót mới; sau đó tự động cập nhật vào Google Calendar và gửi tin nhắn tóm tắt danh sách hạn chót trong tuần vào sáng thứ Hai |
+| Cảm nhận nhanh | Workflow |
 
 Quy trình nháp hiện tại:
 
 ```text
-HIỆN TẠI — ~7 phút/lần thử nghiệm (x 12 lần/ngày = ~84 phút/ngày)
+HIỆN TẠI — 90 phút/tuần (~15 phút/ngày x 6 ngày)
 
-[1. Sửa tham số trong config/notebook: 1,5']
-→ [2. Chạy train & chờ kết quả/lỗi: (thời gian máy chạy)]
-→ [3. Đọc terminal log & tìm nguyên nhân crash/metric: 1,5']
-→ [4. Copy tay tham số + log lỗi sang Notion/Sheets: 2,5'] ← BOTTLENECK (hay bị bỏ qua khi vội)
-→ [5. Dò lại bảng cũ trước khi chỉnh lần chạy tiếp theo: 1,5'] ← BOTTLENECK
+[1. Đăng nhập Portal trường xem lịch thi & thông báo: 3']
+→ [2. Mở từng môn trên LMS kiểm tra deadline bài tập: 5'] ← BOTTLENECK (phần 1)
+→ [3. Đọc email sinh viên & lọc thông báo đổi lịch: 4'] ← BOTTLENECK (phần 2)
+→ [4. Check tin nhắn nhóm lớp Zalo/Discord: 2']
+→ [5. Ghi hạn chót vào Google Calendar/Notion: 1']
 ```
 
 ### Card muốn pitch nhất
@@ -147,8 +147,8 @@ HIỆN TẠI — ~7 phút/lần thử nghiệm (x 12 lần/ngày = ~84 phút/ng�
 | Điểm yếu AI chỉ ra | Đồng ý? | Đã sửa gì |
 |---|---|---|
 | Ở Card #1, nếu để LLM tự tính tổng tiền và áp phần trăm chiết khấu thì rất dễ xảy ra lỗi tính toán số học (hallucination về con số) gây thiệt hại tiền thật cho shop | Đồng ý hoàn toàn | Tách bạch rõ trong giả thuyết: AI chỉ bóc tách thực thể (tên hàng, số lượng) và khớp mã SKU; bước tra bậc giá và nhân/cộng tiền bắt buộc do **Rule/Script** thực hiện; nhân viên sale duyệt trước khi bấm gửi |
-| Ở Card #2, ảnh đồng hồ điện nước chụp thực tế từ khách thuê gửi qua Zalo thường bị mờ, lóa đèn flash, góc nghiêng hoặc số đang kẹt nửa vòng quay, OCR rất dễ đọc sai số hàng chục/hàng đơn vị gây tranh cãi lớn | Đồng ý hoàn toàn | Thiết kế boundary và giao diện Human-in-the-loop: AI OCR nhận diện và hiển thị ảnh crop bên cạnh ô số để chủ trọ chỉ cần nhìn lướt xác nhận (1 click) trước khi xuất hóa đơn và gửi mã VietQR |
-| Ở Card #3 (log tham số train model), AI chỉ ra rằng các công cụ như MLflow / Weights & Biases đã giải quyết phần lớn bài toán, nếu tự làm lại từ đầu sẽ thành "reinventing the wheel" | Đồng ý | Sửa lại cảm nhận nhanh của Card #3 từ **Workflow** sang **Rule (kết hợp Workflow nhẹ)** và bổ sung câu hỏi cần kiểm chứng xem vì sao người dùng không bật sẵn W&B/MLflow |
+| Ở Card #2 (quét JD từ nhiều trang web), các trang web việc làm như LinkedIn, TopCV thường có cơ chế chặn bot cào dữ liệu (anti-scraping, Cloudflare, rate-limit), nếu cố tình crawl tự động từ server sẽ dễ bị chặn IP | Đồng ý hoàn toàn | Thiết kế giải pháp kỹ thuật dạng Chrome Extension chạy trực tiếp trên phiên duyệt web của người dùng (client-side) hoặc tận dụng RSS feed/API đối tác công khai, không xây hệ thống backend crawl dữ liệu chui |
+| Ở Card #3 (tổng hợp deadline học vụ), việc tự động đăng nhập vào Portal trường thường vấp phải rào cản xác thực (SSO, OTP, Captcha) và vi phạm chính sách bảo mật của trường nếu dùng bot cào dữ liệu | Đồng ý | Xác định rõ boundary trong giải pháp: Chỉ tích hợp dữ liệu từ các kênh chuẩn hóa có cấp quyền (LMS iCal link, Google Classroom API và email cá nhân được cấp quyền OAuth2); không viết bot giải Captcha hay đăng nhập chui qua Portal trường |
 | AI gợi ý nâng cấp Card #1 thành "Agent tự động trả lời và tự chốt đơn thu tiền khách trên Zalo 24/7 không cần người" | Không đồng ý | Giữ mức can thiệp ở **Workflow** có con người kiểm duyệt (Human-in-the-loop), vì khách mua sỉ thường mặc cả hoặc hỏi điều kiện giao hàng đặc thù, nếu bot tự chốt sai chính sách sẽ làm mất khách lớn |
 
 ---
@@ -175,7 +175,7 @@ HIỆN TẠI — ~7 phút/lần thử nghiệm (x 12 lần/ngày = ~84 phút/ng�
 | Checkpoint | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai hoặc hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
 |---|---|---|---|---|
 | CP1 Scan | Gợi ý mở rộng danh sách problem theo 4 lăng kính có tiềm năng thương mại hóa (B2B/SME) và chuẩn hóa cấu trúc câu Job Story ("Khi... tôi muốn... để...") | Giúp rà soát nhanh xem câu Job Story có vô tình gài giải pháp ("cần chatbot/AI...") vào trong mô tả vấn đề hay không; gợi ý thêm góc nhìn ở mảng TMĐT và trung tâm giáo dục | Ban đầu AI hay đưa ra các ý tưởng quá rộng ("trợ lý ảo toàn năng") hoặc thiếu các con số định lượng thực tế (tần suất, thời gian mất, thiệt hại chi phí) tại thị trường Việt Nam | Tự lọc bỏ các ý chung chung/rủi ro cao; tự bổ sung quy trình làm tay thực tế (Zalo, Excel, sao kê ngân hàng, Shopee) và ước lượng số phút/tần suất sát với vận hành thật của các shop/SME |
-| CP2 Problem Card | Đóng vai một Product Manager hoài nghi để phản biện 3 Problem Card (kiểm tra xem quy trình có thật không, bottleneck có cụ thể không, rủi ro ảo giác số học và so sánh với phương án No AI/Rule) | Giúp phát hiện rủi ro chí mạng nếu để LLM tự tính tiền ở Card #1 (hallucination về số học) và chỉ ra các công cụ logging có sẵn ở Card #3 (W&B, MLflow) | AI có xu hướng vội vàng đề xuất biến bài toán thành "Autonomous Agent tự động hóa 100% không cần người duyệt", bỏ qua các tình huống thực tế của khách hàng tại Việt Nam | Giữ vững nguyên tắc Human-in-the-loop (con người kiểm tra trước khi gửi); phân tách rạch ròi bước nào dùng AI (bóc tách văn bản, OCR), bước nào dùng Rule/Code (nhân chia tiền, kiểm tra tồn kho, sinh mã VietQR) |
+| CP2 Problem Card | Đóng vai một Product Manager hoài nghi để phản biện 3 Problem Card (kiểm tra quy trình thực tế, rủi ro ảo giác số học ở Card #1, rào cản kỹ thuật anti-scraping ở Card #2, và rào cản xác thực SSO/Captcha ở Card #3) | Giúp phát hiện rủi ro chí mạng nếu để LLM tự tính tiền ở Card #1 (hallucination về số học) và chỉ ra rào cản bị chặn bot nếu crawl JD tự động ở Card #2 | AI có xu hướng vội vàng đề xuất biến cả 3 bài toán thành "Autonomous Agent tự động hóa 100% không cần người duyệt" (như tự gửi CV ứng tuyển hoặc tự gửi báo giá) | Giữ vững nguyên tắc Human-in-the-loop (con người kiểm tra trước khi gửi); phân tách rạch ròi bước nào dùng AI (bóc tách văn bản, so khớp ngữ cảnh JD với CV), bước nào dùng Rule/Code (nhân chia tiền, kiểm tra tồn kho, đồng bộ calendar) |
 | CP4 Research | | | | |
 | CP5 Quy trình | | | | |
 | CP5–6 Problem Statement | | | | |
