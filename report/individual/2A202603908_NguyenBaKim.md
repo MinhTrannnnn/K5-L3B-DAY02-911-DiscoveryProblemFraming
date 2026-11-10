@@ -6,8 +6,8 @@
 
 ## 1. Thông tin học viên
 
-- Họ tên:2A202603908
-- MSSV:Nguyễn Bá Kim
+- Họ tên:Nguyễn Bá Kim
+- MSSV:2A202603908
 - Email trường (không bắt buộc, repo có thể để public):
 - Tên nhóm: 911
 - Link repo nhóm:https://github.com/MinhTrannnnn/K5-L3B-DAY02-911-DiscoveryProblemFraming.git
@@ -160,11 +160,11 @@ Gửi cho nhóm
 | Nhận phản biện | Nhận câu hỏi từ Bảo: "Nếu bạn bè spam mail hoặc nhắn rủ 'mai 9h đi đá banh, 10h đi bơi', làm sao AI phân biệt được đâu là deadline học tập thật để không đưa nhầm vào lịch?"| Tôi nhận ra bài toán chưa xác định rõ tiêu chí phân loại deadline. Sau phản biện, tôi bổ sung Boundary và cân nhắc giải pháp Rule-based trước khi nghĩ đến AI. |
 | Gom cluster / cây OST |Tham gia thảo luận nhóm các candidate thuộc nhóm "Gom & đồng bộ thông tin rải rác" |Hỗ trợ nhóm xác định pattern chung là dữ liệu và thông tin nằm trên nhiều nền tảng khác nhau. |
 | Chọn candidate problem |Tham gia chấm điểm và phản biện các candidate trong shortlist. |Nhóm chọn bài toán ShopeeFood vì có bằng chứng thực tế và dễ kiểm chứng hơn trong phạm vi lab. |
-| Kiểm chứng / research |Góp ý về việc cần thêm bằng chứng thực tế thay vì chỉ dựa trên trải nghiệm cá nhân |Tìm kiếm thông tin và đối chiếu tài liệu ShopeeFood. |
+| Kiểm chứng / research |Góp ý về việc cần thêm bằng chứng thực tế thay vì chỉ dựa trên trải nghiệm cá nhân trong quá trình thảo luận nhóm.| Hỗ trợ nhóm nhìn nhận cần có thêm bằng chứng thực tế trước khi kết luận nguyên nhân của vấn đề. |
 | Quy trình nhóm |	Tham gia trao đổi và góp ý quy trình hiện tại của người dùng ShopeeFood. |Giúp xác định bottleneck nằm ở bước người dùng phải tự quyết định khi tiến độ đơn chưa rõ. |
 | Problem Statement |Góp ý làm rõ actor, bottleneck và boundary của bài toán được chọn |Problem Statement cụ thể hơn, tránh quy kết nguyên nhân khi chưa có dữ liệu. |
-| Mức can thiệp AI |	Đặt câu hỏi về việc có thực sự cần AI hay chỉ cần Rule-based. | |
-| Quyết định |Tham gia thảo luận và đồng ý phương án Go với phạm vi pilot nhỏ. |Nhóm thống nhất triển khai thử nghiệm Rule-based và chưa sử dụng AI dự báo. |
+| Mức can thiệp AI |	Tham gia đánh giá No AI, Rule, Workflow và Agent; đặt câu hỏi về việc có thực sự cần AI hay chỉ cần Rule-based.|Giúp nhóm thống nhất chọn Rule-based cho pilot và chưa sử dụng AI dự báo. |
+| Quyết định |Cùng Nguyễn Văn Hậu đánh giá các rủi ro Value, Usability, Feasibility và Viability trước khi đưa ra quyết định cuối cùng |Nhóm thống nhất lựa chọn Go với phạm vi pilot nhỏ và triển khai thử nghiệm Rule-based trước khi cân nhắc AI dự báo |
 
 ---
 
