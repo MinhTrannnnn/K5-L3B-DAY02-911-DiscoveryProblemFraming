@@ -13,7 +13,7 @@ Nhóm có 5 thành viên theo chấp thuận của lab coach. Mỗi người t�
 
 | STT | Họ và tên | MSSV | Vai trò trong nhóm | Tài khoản GitHub |
 |---:|---|---|---|---|
-| 1 | Lê Quân Bảo | 2A202603888 | Lead CP3; hỗ trợ CP5 | Tự điền |
+| 1 | Lê Quân Bảo | 2A202603888 | Lead CP3; hỗ trợ CP5 | [LeBao403](https://github.com/LeBao403) |
 | 2 | Trần Quang Minh | 2A202603929 | Lead CP4; hỗ trợ CP3 | [MinhTrannnnn](https://github.com/MinhTrannnnn) |
 | 3 | Nguyễn Hải Quang | 2A202603936 | Lead CP5; hỗ trợ CP4 | Tự điền |
 | 4 | Nguyễn Văn Hậu | 2A202603932 | Đồng lead CP6; hỗ trợ CP4 | Tự điền |
@@ -41,8 +41,8 @@ Các mục dưới đây ghi phân công và phần thể hiện trong [báo cá
 
 - **Phần việc phụ trách:** Lead CP3; hỗ trợ Quang ở CP5.
 - **Đóng góp thể hiện trong báo cáo:** Tổng hợp bảng pitch, nhóm các candidate, dựng cây cơ hội và bảng chấm shortlist; hỗ trợ rà quy trình trước/sau và mốc bottleneck.
-- **Bằng chứng:** `report/team/group_report.md` mục 2 và mục 4–5; bổ sung commit của Bảo.
-- **Điều học được từ phần nhóm:** Bảo tự điền.
+- **Bằng chứng:** `report/team/group_report.md` mục 2 và mục 4–5; commit của Bảo trên nhánh `2A202603888` và `main`.
+- **Điều học được từ phần nhóm:** Nhận ra tầm quan trọng của việc gạt bỏ tư duy công nghệ làm trước để tập trung mổ xẻ đúng nỗi đau người dùng; hiểu rõ ranh giới giữa quy tắc thông thường với can thiệp mô hình và biết cách phối hợp nhịp nhàng giữa phân tích luồng di chuyển thực tế với tính khả thi hệ thống.
 
 ### TranQuangMinh-2A202603929
 
