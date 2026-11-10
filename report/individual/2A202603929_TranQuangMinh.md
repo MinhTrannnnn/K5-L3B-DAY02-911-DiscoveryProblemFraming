@@ -25,6 +25,8 @@ Lăng kính: **Lặp lại** · **Tốn thời gian** · **Cần đọc, tổng 
 | 5 | Cần đọc, tổng hợp nhiều thông tin | Khi nhóm nhận góp ý cho bài làm qua bình luận trong file, tin nhắn và trao đổi trực tiếp, tôi muốn gom các việc cần sửa và trạng thái của chúng, để không bỏ sót góp ý trước khi nộp. | Thành viên nhóm làm bài và người tổng hợp bản cuối | Đọc 2 nguồn góp ý trong 20 phút và tìm được 8 mục cần sửa. Chưa ghi đợt góp ý cụ thể. |
 | 6 | Lặp lại; tốn thời gian | Khi đặt món trên ShopeeFood vào lúc cần ăn đúng giờ, tôi muốn biết sớm đơn có được tài xế nhận, có nguy cơ giao trễ hoặc đã bị hủy hay không, để kịp quyết định tiếp tục chờ hay đặt món khác. | Người đặt đồ ăn; quán và tài xế có liên quan đến tiến độ đơn | Đơn ngày 07/11/2026 đặt khoảng 18:00, nhận khoảng 20:00 (120 phút); chờ tài xế nhận khoảng 30–45 phút. Tôi mở app kiểm tra liên tục, hỏi tài xế rồi tiếp tục đợi. Ở một đơn khác, sau khoảng 1–2 giờ vẫn không ai nhận, tôi chỉ thấy trạng thái đang chờ, không thấy cảnh báo và tự hủy. |
 
+**Từ scan đến top 3:** #1, #4 và #6 có một lần xảy ra mà tôi nhớ được mốc bắt đầu, kết thúc hoặc các đoạn chờ để vẽ quy trình. #2, #3 và #5 cũng có dấu hiệu tốn thời gian, nhưng tôi chưa ghi được lần họp, lần chia tiền hoặc đợt góp ý cụ thể để kiểm tra lại nguyên nhân. Vì vậy, tôi đưa #1, #4 và #6 vào CP2; các con số trong bảng là dấu hiệu của từng lần kể lại, chưa phải tần suất hay mức trung bình của nhiều người.
+
 ---
 
 ## 3. Top 3 Problem Cards + quy trình nháp (CP2)
@@ -69,11 +71,11 @@ Người giao báo đã đến tòa A (mốc bắt đầu)
 | Job Story | Khi đặt món trên ShopeeFood vào lúc cần ăn đúng giờ, tôi muốn biết sớm đơn có được tài xế nhận, có nguy cơ giao trễ hoặc đã bị hủy hay không, để kịp quyết định tiếp tục chờ hay đặt món khác. |
 | Actor | Người đặt món trên ShopeeFood. Quán, tài xế và bộ phận hỗ trợ ảnh hưởng đến tiến độ nhưng cần được kiểm chứng riêng. |
 | Thời điểm / bối cảnh | Đơn ngày 07/11/2026 đặt khoảng 18:00 và được giao khoảng 20:00. Tôi nhớ đã chờ 30–45 phút mới có tài xế nhận, mở app kiểm tra liên tục, hỏi tài xế rồi tiếp tục đợi. Một đơn khác sau khoảng 1–2 giờ vẫn chưa có tài xế; tôi không thấy cảnh báo và tự hủy. Chưa nhớ ngày của đơn này. |
-| Quy trình hiện tại (3–7 bước) | (1) Đặt đơn khoảng 18:00 (mốc bắt đầu) → (2) chờ có tài xế nhận khoảng 30–45 phút → (3) từ lúc tài xế nhận đến khi người dùng nhận món khoảng 75–90 phút, kết thúc khoảng 20:00. Việc mở app xem trạng thái xảy ra trong khi chờ, chưa đo số lần hoặc thời lượng riêng; không cộng thêm vào 120 phút. |
-| Bottleneck (bước nào, mất bao nhiêu phút) | Theo thời gian của đơn này, bước 3 dài nhất: 75–90 phút từ lúc có tài xế đến khi nhận món. Chưa biết thời gian đó nằm nhiều ở chuẩn bị món, lấy món hay di chuyển. Bước 2 cũng kéo dài 30–45 phút và là khoảng người dùng không biết khi nào có tài xế. |
+| Quy trình hiện tại (3–7 bước) | (1) Đặt đơn khoảng 18:00 (mốc bắt đầu) → (2) trong lúc chờ, mở app kiểm tra trạng thái nhiều lần; chưa đo số lần → (3) có tài xế nhận sau khoảng 30–45 phút; người đặt tiếp tục chờ → (4) từ lúc có tài xế đến lúc nhận món khoảng 75–90 phút, kết thúc khoảng 20:00. Việc mở app diễn ra song song với các đoạn chờ, không cộng thêm vào tổng 120 phút. |
+| Bottleneck (bước nào, mất bao nhiêu phút) | Với nhu cầu **quyết định chờ hay đổi cách ăn**, bước 2–3 là điểm nghẽn: 30–45 phút đầu chưa có tài xế, người đặt phải tự xem lại trạng thái mà chưa biết khi nào nên đổi phương án. Đoạn 75–90 phút sau khi có tài xế dài hơn về thời lượng, nhưng chưa có mốc quán làm món/lấy món/di chuyển để xác định bước nào làm nó kéo dài. |
 | Impact (nếu không giải thì sao) | Ở đơn được giao, tôi chờ khoảng 120 phút, trong đó 30–45 phút đầu chưa có tài xế. Ở đơn khác, tôi chờ khoảng 1–2 giờ khi chưa ai nhận rồi tự hủy; thời gian chờ này không đưa đến bữa ăn từ đơn đó. |
-| Success metric (baseline → target) | Baseline của một đơn: khoảng 120 phút từ đặt đến nhận món; 30–45 phút chờ có tài xế. Target để nhóm thảo luận: giảm thời gian người dùng chờ mà không có thông tin để quyết định; chưa chốt số phút mục tiêu vì chưa đo thời điểm cập nhật trạng thái và các đơn khác. Cách đo: đối chiếu giờ đặt, giờ có tài xế, giờ lấy món, giờ nhận và giờ người dùng thấy thông báo. |
-| Phương án không dùng AI | Hiển thị rõ mốc trạng thái và thời điểm cập nhật; thông báo khi không tìm được tài xế hoặc đơn bị hủy; sau một ngưỡng chờ đo được, cho người dùng lựa chọn tiếp tục chờ hoặc đặt lại. Cần kiểm tra thông báo hiện có và cài đặt thiết bị trước khi kết luận thiếu thông báo. |
+| Success metric (baseline → target) | **Đã biết:** một đơn mất khoảng 120 phút từ đặt đến nhận, trong đó 30–45 phút chờ có tài xế. **Chưa đo:** từ lúc đặt đến lúc người dùng quyết định rõ sẽ tiếp tục chờ hay chuẩn bị món khác. Target nháp để nhóm kiểm chứng: người dùng ra quyết định có căn cứ trong tối đa 8 phút, trước hạn phải đổi phương án ăn. Cách đo: ghi giờ đặt, giờ kiểm tra trạng thái, giờ cần ăn, hạn đổi phương án và giờ quyết định; theo dõi riêng giờ có tài xế/nhận món để không nhầm thời gian ra quyết định với thời gian giao hàng. |
+| Phương án không dùng AI | Người dùng đặt mốc nhắc kiểm tra đơn, tự mở ShopeeFood xem trạng thái và đối chiếu với giờ cần ăn. Nếu thiếu thông tin hoặc muốn đổi món, kiểm tra quyền hủy của đơn cũ trước khi đặt đơn khác. Cần đối chiếu thông báo hiện có và cài đặt thiết bị trước khi kết luận ứng dụng thiếu cảnh báo. |
 | Giả thuyết về AI (nếu có) | Nếu có dữ liệu vận hành, AI có thể dự báo nguy cơ không tìm được tài xế hoặc giao trễ; người dùng chỉ nhận gợi ý, không tự động hủy hay đặt đơn khác. Nhóm không có dữ liệu nội bộ nên đây chưa phải phương án khả thi để chốt. |
 | Cảm nhận nhanh | Ưu tiên No AI/Rule để làm trạng thái và cảnh báo dễ hiểu; chỉ cân nhắc AI nếu cách đó không đủ và có dữ liệu phù hợp. |
 
@@ -81,12 +83,13 @@ Quy trình nháp hiện tại:
 
 ```text
 Đặt món khoảng 18:00 (mốc bắt đầu)
-  → Chờ có tài xế nhận: 30–45 phút
-  → Từ lúc tài xế nhận đến lúc nhận món: 75–90 phút ← KHOẢNG DÀI NHẤT
+  → Trong khi chờ: mở app kiểm tra nhiều lần; chưa đo số lần/thời lượng
+  → Có tài xế sau khoảng 30–45 phút ← NGHẼN CHO QUYẾT ĐỊNH CHỜ/ĐỔI MÓN
+  → Tiếp tục chờ; khoảng 75–90 phút từ lúc có tài xế đến khi nhận món
   → Nhận món khoảng 20:00 (tổng khoảng 120 phút)
 
-Mở app kiểm tra diễn ra trong lúc chờ; chưa có thời lượng riêng.
-Nhánh không có tài xế/bị hủy thuộc các đơn khác, chưa có mốc giờ.
+Ở một đơn khác: chờ 1–2 giờ chưa có tài xế → tự hủy.
+Chưa biết ngày và mốc trạng thái chi tiết của đơn này; không cộng vào đơn 18:00–20:00.
 ```
 
 **Tách ba tình huống để phản biện Card #2:**
@@ -146,16 +149,16 @@ Quy trình nháp hiện tại:
 
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
 |---|---|---|
-| Pitch Problem Card | | |
-| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: | |
-| Nhận phản biện | Câu hỏi tôi nhận được: | Tôi đã sửa gì: |
-| Gom cluster / cây OST | | |
-| Chọn candidate problem | | |
-| Kiểm chứng / research | | |
-| Quy trình nhóm | | |
-| Problem Statement | | |
-| Mức can thiệp AI | | |
-| Quyết định | | |
+| Pitch Problem Card | Tôi trình bày ba card về điểm gặp khi nhận hàng (#7), trạng thái đơn ShopeeFood (#8) và chờ ở căng tin (#9); đề xuất đào sâu #8. | Nhóm đưa cả ba vào bảng pitch và chọn #8 để kiểm chứng ở CP4. |
+| Phản biện bài của bạn khác | Tôi hỏi Bảo ở card #1 liệu viết XML comment chuẩn đã đủ để Swagger tự trích xuất, có thật cần AI không. Tôi hỏi Quang ở card #11 liệu gợi ý khẩu phần có giúp giảm rau thừa nếu siêu thị chỉ bán gói lớn. Tôi hỏi Kim ở card #15 liệu transcript có đủ sạch khi cuộc họp nhiều tạp âm, tiếng lóng hoặc nói chen ngang. | Ba câu hỏi kiểm tra phương án không dùng AI, ràng buộc ngoài phần mềm và độ tin cậy của dữ liệu đầu vào; được ghi ở bảng pitch mục 2.1 của báo cáo nhóm. |
+| Nhận phản biện | Bảo hỏi liệu điểm nhận hàng cố định ở sảnh/bảo vệ đã đủ cho card #7; Hậu hỏi card #8 có phân biệt được thiếu tài xế do giao thông với quán hết món/đóng cửa không; Kim hỏi card #9 liệu đếm hàng chờ bằng camera có đáng hơn bảng giờ cao điểm. | Tôi giữ phương án điểm gặp cố định và No AI/Rule ở card #7; không gộp các nguyên nhân chậm/hủy vào một kết luận ở card #8; đặt No AI/Rule trước AI ở card #9. Nhóm thu hẹp #8 về bước người đặt kiểm tra và quyết định chờ hay đổi cách ăn. |
+| Gom cluster / cây OST | Hỗ trợ Bảo tổng hợp các pitch; đối chiếu #7, #8 và #9 theo điểm chung là người dùng phải chờ nhưng thiếu thông tin để quyết định. | Ba card nằm trong cluster D ở báo cáo nhóm; nhánh cơ hội của #8 tập trung vào lúc kiểm tra đơn, giờ cần ăn và hạn đổi phương án, không đặt công cụ AI ở tầng opportunity. |
+| Chọn candidate problem | Bảo vệ #8 bằng trường hợp cá nhân đặt khoảng 18:00, nhận khoảng 20:00 và chờ tài xế nhận 30–45 phút; nêu rõ phần chưa biết là nguyên nhân chậm và lúc nào nên đổi kế hoạch ăn. | Nhóm chọn #8 để kiểm chứng, đồng thời giữ câu hỏi về dữ liệu nội bộ và nguyên nhân giao chậm cho CP4. |
+| Kiểm chứng / research | Tôi phụ trách CP4: tổng hợp lời kể của ba người ngoài nhóm được hỏi qua tin nhắn (50 phút đến khi có tài xế; 120 phút và 40 phút đến khi tự hủy), đối chiếu tài liệu chính thức về đơn không có tài xế và quyền hủy. | Báo cáo nhóm có assumption map, ba interview snapshot, bảng research; problem được thu hẹp từ “dự báo thiếu tài xế/hủy đơn” sang “giúp người đặt quyết định khi tiến độ chưa rõ”. |
+| Quy trình nhóm | Cung cấp các mốc đơn cá nhân và kết quả CP4 để Quang vẽ quy trình; phân biệt thời gian chờ có tài xế với thời gian từ lúc có tài xế đến khi nhận món. | Quy trình CP5 ghi người dùng mở app, đối chiếu giờ cần ăn và tự quyết định; không giả định Rule làm món được giao nhanh hơn. |
+| Problem Statement | Góp ý mô tả actor là người đặt cần ăn đúng giờ và bottleneck là quyết định khi trạng thái đơn thiếu rõ ràng; nhắc nhóm chưa có baseline thời gian ra quyết định. | V0/v1 tập trung vào thời gian đến quyết định và quyền kiểm tra lại trên ShopeeFood, thay vì hứa giảm thời gian giao hàng. |
+| Mức can thiệp AI | Nêu rào cản không có dữ liệu điều phối tài xế để kiểm chứng dự báo; cùng nhóm so sánh việc tự kiểm tra, Rule, Workflow và Agent. | Nhóm chọn Rule nhắc kiểm tra và đối chiếu mốc giờ cho pilot; AI dự báo chỉ là hướng sau này nếu có dữ liệu phù hợp. |
+| Quyết định | Đối chiếu lời kể phỏng vấn với rủi ro người dùng vẫn tiếp tục đợi dù khó chịu; ủng hộ thử nghiệm nhỏ trước khi kết luận lời nhắc có giá trị. | Quyết định Go cho pilot Rule, đo thời gian chốt phương án và tỷ lệ quyết định trước hạn; chưa tuyên bố giải pháp đã hiệu quả. |
 
 ---
 

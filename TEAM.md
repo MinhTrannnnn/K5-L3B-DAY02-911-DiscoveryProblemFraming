@@ -9,7 +9,7 @@
 
 ## Thành viên
 
-Nhóm có 5 thành viên theo chấp thuận của lab coach. Mỗi người tự điền tài khoản GitHub của mình; Kim tự điền MSSV khi thêm báo cáo cá nhân.
+Nhóm có 5 thành viên theo chấp thuận của lab coach. Mỗi người tự kiểm tra và bổ sung tài khoản GitHub của mình.
 
 | STT | Họ và tên | MSSV | Vai trò trong nhóm | Tài khoản GitHub |
 |---:|---|---|---|---|
@@ -17,7 +17,7 @@ Nhóm có 5 thành viên theo chấp thuận của lab coach. Mỗi người t�
 | 2 | Trần Quang Minh | 2A202603929 | Lead CP4; hỗ trợ CP3 | [MinhTrannnnn](https://github.com/MinhTrannnnn) |
 | 3 | Nguyễn Hải Quang | 2A202603936 | Lead CP5; hỗ trợ CP4 | Tự điền |
 | 4 | Nguyễn Văn Hậu | 2A202603932 | Đồng lead CP6; hỗ trợ CP4 | Tự điền |
-| 5 | Nguyễn Bá Kim | 2A202603908| Đồng lead CP6; hỗ trợ CP5 | [KMJ00](https://github.com/KMJ00) |
+| 5 | Nguyễn Bá Kim | 2A202603908 | Đồng lead CP6; hỗ trợ CP5 | [KMJ00](https://github.com/KMJ00) |
 
 Không ghi email hoặc số điện thoại của thành viên và người được phỏng vấn vào repo.
 
@@ -48,7 +48,7 @@ Các mục dưới đây ghi phân công và phần thể hiện trong [báo cá
 
 - **Phần việc phụ trách:** Lead CP4; hỗ trợ Bảo ở CP3; đề xuất Problem Card #8 ShopeeFood.
 - **Đóng góp thể hiện trong báo cáo:** Đưa trải nghiệm đặt món vào phần pitch; tổng hợp ba câu trả lời của người ngoài nhóm, assumption map và bảng research; thu hẹp problem sau kiểm chứng.
-- **Bằng chứng:** `report/team/group_report.md` mục 2.1, 3.1–3.3; `report/individual/2A202603929_TranQuangMinh.md` mục 2–3; bổ sung commit của Minh.
+- **Bằng chứng:** `report/team/group_report.md` mục 2.1, 3.1–3.3; `report/individual/2A202603929_TranQuangMinh.md` mục 2–3; commit `413c40e` của Minh.
 - **Điều học được từ phần nhóm:** Qua quá trình làm việc nhóm, tôi học được cách xác định và phân tích một vấn đề dựa trên bằng chứng thực tế thay vì chỉ dựa vào cảm nhận cá nhân. Đặc biệt, khi phụ trách CP4, tôi nhận ra tầm quan trọng của việc phỏng vấn người dùng, kiểm chứng các giả định và đối chiếu với những thông tin nghiên cứu để hiểu rõ nguyên nhân của vấn đề. Bên cạnh đó, việc trao đổi và phản biện với các thành viên giúp tôi nhìn nhận vấn đề từ nhiều góc độ và biết cách thu hẹp phạm vi để tập trung vào khó khăn cốt lõi của người dùng. Tôi cũng hiểu rằng không phải vấn đề nào cũng cần áp dụng AI, mà quan trọng nhất là lựa chọn giải pháp phù hợp, có tính khả thi và thực sự mang lại giá trị.
 
 ### NguyenHaiQuang-2A202603936
@@ -65,9 +65,9 @@ Các mục dưới đây ghi phân công và phần thể hiện trong [báo cá
 - **Bằng chứng:** `report/team/group_report.md` mục 3.3 và 6–8; `report/individual/2A202603932_NguyenVanHau.md`; bổ sung commit của Hậu.
 - **Điều học được từ phần nhóm:** Quá trình làm việc nhóm giúp tôi nhận ra không phải bài toán nào cũng cần đến AI; việc hiểu nút thắt và rào cản dữ liệu là 1 phần quan trọng. Phụ trách 1 phần CP6 và hỗ trợ CP4 giúp tôi hiểu 4 mức can thiệp để tìm ra điểm cân bằng tối ưu về Feasibility và Value. Tôi học được cách thiết kế sản phẩm phải trọng quyền tự quyết của con người, tránh để hệ thống tự động can thiệp vào tài chính hay trải nghiệm của người dùng khi chưa có đủ dữ liệu kiểm chứng chắc chắn.
 
-### NguyenBaKim-MSSV_TuDien
+### NguyenBaKim-2A202603908
 
 - **Phần việc phụ trách:** Đồng lead CP6; hỗ trợ Quang ở CP5.
 - **Đóng góp thể hiện trong báo cáo:** Phản biện boundary và bước người dùng kiểm tra/xác nhận; cùng Hậu rà bốn mức can thiệp, tiêu chí đánh giá và quyết định pilot.
-- **Bằng chứng:** `report/team/group_report.md` mục 4–8; Kim bổ sung báo cáo cá nhân và commit của mình.
+- **Bằng chứng:** `report/team/group_report.md` mục 4–8; `report/individual/2A202603908_NguyenBaKim.md`; Kim tự bổ sung commit của mình.
 - **Điều học được từ phần nhóm:** Kim tự điền.
