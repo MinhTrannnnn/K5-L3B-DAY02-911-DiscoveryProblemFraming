@@ -17,7 +17,7 @@ Nhóm có 5 thành viên theo chấp thuận của lab coach. Mỗi người t�
 | 2 | Trần Quang Minh | 2A202603929 | Lead CP4; hỗ trợ CP3 | [MinhTrannnnn](https://github.com/MinhTrannnnn) |
 | 3 | Nguyễn Hải Quang | 2A202603936 | Lead CP5; hỗ trợ CP4 | Tự điền |
 | 4 | Nguyễn Văn Hậu | 2A202603932 | Đồng lead CP6; hỗ trợ CP4 | Tự điền |
-| 5 | Nguyễn Bá Kim | Tự điền | Đồng lead CP6; hỗ trợ CP5 | Tự điền |
+| 5 | Nguyễn Bá Kim | 2A202603908| Đồng lead CP6; hỗ trợ CP5 | [KMJ00](https://github.com/KMJ00) |
 
 Không ghi email hoặc số điện thoại của thành viên và người được phỏng vấn vào repo.
 
