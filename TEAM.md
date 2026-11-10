@@ -63,7 +63,7 @@ Các mục dưới đây ghi phân công và phần thể hiện trong [báo cá
 - **Phần việc phụ trách:** Đồng lead CP6; hỗ trợ Minh ở CP4.
 - **Đóng góp thể hiện trong báo cáo:** Hỗ trợ research và phản biện khả năng dùng dữ liệu giao thông; so sánh bốn mức can thiệp, rủi ro và quyết định pilot.
 - **Bằng chứng:** `report/team/group_report.md` mục 3.3 và 6–8; `report/individual/2A202603932_NguyenVanHau.md`; bổ sung commit của Hậu.
-- **Điều học được từ phần nhóm:** Hậu tự điền.
+- **Điều học được từ phần nhóm:** Quá trình làm việc nhóm giúp tôi nhận ra không phải bài toán nào cũng cần đến AI; việc hiểu nút thắt và rào cản dữ liệu là 1 phần quan trọng. Phụ trách 1 phần CP6 và hỗ trợ CP4 giúp tôi hiểu 4 mức can thiệp để tìm ra điểm cân bằng tối ưu về Feasibility và Value. Tôi học được cách thiết kế sản phẩm phải trọng quyền tự quyết của con người, tránh để hệ thống tự động can thiệp vào tài chính hay trải nghiệm của người dùng khi chưa có đủ dữ liệu kiểm chứng chắc chắn.
 
 ### NguyenBaKim-MSSV_TuDien
 
